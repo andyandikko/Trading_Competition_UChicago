@@ -5,11 +5,11 @@ This 2-day long development project implements an innovative trading strategy th
 
 The strategy builds upon learnings from the M6 Financial Forecasting Competition, incorporating:
 
-Advanced meta-learning architecture for stock prediction
-Comprehensive feature engineering pipeline
-Multi-timeframe analysis framework
-Dynamic portfolio allocation strategy
-Robust backtesting methodology
+- Advanced meta-learning architecture for stock prediction 
+- Comprehensive feature engineering pipeline
+- Multi-timeframe analysis framework
+- Dynamic portfolio allocation strategy
+- Robust backtesting methodology
 
 The system processes historical data from Alpaca Markets to train a neural network model that predicts weekly stock quintiles, enabling data-driven portfolio allocation decisions. During the one-week competition period, the strategy demonstrated superior performance in live market conditions, particularly excelling in handling market volatility and regime changes, though losing out to competitors trading cryptocurrencies (BTC hit 100,000 that week).
 
