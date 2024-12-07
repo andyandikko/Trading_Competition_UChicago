@@ -1,7 +1,7 @@
 # Trading Competition Meta-Learning Project
 
 ## Overview
-This 2-day long development project implements an innovative trading strategy that secured 8th place in a Masters-level trading competition at UChicago. By combining meta-learning techniques with traditional quantitative analysis, the system achieved top performance among low-frequency equities trading strategies during live paper trading.
+This 2-day long development project implements an innovative trading strategy that secured 8th place in a Masters-level trading competition at UChicago. By combining meta-learning techniques with traditional quantitative analysis, the system achieved top performance among non-crypto based strategies during live paper trading.
 
 The strategy builds upon learnings from the M6 Financial Forecasting Competition, incorporating:
 
